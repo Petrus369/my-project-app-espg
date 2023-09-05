@@ -1,11 +1,10 @@
-import React from "react"
 
-export default function cabecalho() {
+export default function Cabecalho() {
   return (
     <>
-    <header>
+        <header>
           <h1>Vite + React</h1>
-    </header>
+        </header> 
     </>
   )
 }
